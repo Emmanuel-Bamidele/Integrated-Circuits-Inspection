@@ -27,10 +27,16 @@ Requirements
 -----------------------------------------
 
 Python 3.x
+
 OpenCV
+
 Tkinter for GUI
+
 PIL (Pillow) for image manipulation
+
+-----------------------------------------
 Installation
+-----------------------------------------
 
 Clone the repository to your local machine.
 
@@ -69,9 +75,13 @@ Testing Functions
 -----------------------------------------
 
 ```check_for_written_items```: Compares text between control and test images.
+
 ```check_for_additions```: Checks for additional items in the test image.
+
 ```check_for_missing_items```: Checks for missing items in the test image.
+
 ```check_for_cracks```: Detects cracks using edge detection and line transforms.
+
 ```check_orientation```: Checks the orientation of items using feature matching algorithms like SIFT.
 
 -----------------------------------------
