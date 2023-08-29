@@ -1,5 +1,5 @@
 -----------------------------------------
-IC Visual Inspection by Emmanuel Bamidele
+IC Visual Aiding Inspection by Emmanuel Bamidele
 -----------------------------------------
 
 -----------------------------------------
