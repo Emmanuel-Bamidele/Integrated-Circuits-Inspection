@@ -44,17 +44,15 @@ Install the required packages:
 
 bash
 
-Copy code
 
-pip install opencv-contrib-python Pillow
+```pip install opencv-contrib-python Pillow```
 
 Run the main Python file to start the application:
 
 bash
 
-Copy code
 
-python main.py
+```python main.py```
 
 -----------------------------------------
 Usage
